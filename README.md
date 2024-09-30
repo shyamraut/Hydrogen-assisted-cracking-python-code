@@ -1,7 +1,3 @@
-Here's a sample `README.md` file you can use for your GitHub repository. It explains the functionality of the code, provides installation instructions, and describes how to run the program.
-
----
-
 # Hydrogen-Assisted Cracking (HAC) Analysis Framework
 
 This repository contains a Python framework for simulating and analyzing Hydrogen-Assisted Cracking (HAC) in materials using Finite Element Analysis (FEA). The framework solves for displacements, phase fields (fracture), and hydrogen concentration using a combination of numerical methods, including the Newton-Raphson method and sparse matrix solvers.
@@ -131,10 +127,7 @@ Contributions are welcome! To contribute:
 4. Push to the branch (`git push origin feature-branch`).
 5. Open a pull request.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
 
-This `README.md` file explains the project, its functionality, how to use it, and the structure of the repository. You can modify this template to fit your specific project setup or add more details if needed.
+This `README.md` file explains the project, its functionality, how to use it, and the repository's structure. You can modify this template to fit your specific project setup or add more details if needed.
