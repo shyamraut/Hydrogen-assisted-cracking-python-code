@@ -129,5 +129,3 @@ Contributions are welcome! To contribute:
 
 
 ---
-
-This `README.md` file explains the project, its functionality, how to use it, and the repository's structure. You can modify this template to fit your specific project setup or add more details if needed.
