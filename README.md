@@ -117,6 +117,12 @@ Make sure the input file follows the expected format (see the sample input file 
 
 4. **VTK Output**: Files in `.vtu` format are saved in the `VTK_files/` folder for post-processing in ParaView.
 
+5. ## Simulation Videos
+
+- [Displacement Simulation](disp_white.mp4)
+- [Hydrogen Concentration Simulation](C_white.mp4)
+- [Phase Field Simulation](phi_white.mp4)
+
 ## Contributing
 
 Contributions are welcome! To contribute:
