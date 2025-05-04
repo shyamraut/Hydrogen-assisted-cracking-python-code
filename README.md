@@ -1,7 +1,7 @@
-# Hydrogen-Assisted Cracking (HAC) Analysis Framework
+# Hydrogen-Assisted Cracking (HAC) Analysis project
 
 ## Introduction
-This project focuses on the development of a Python framework for analyzing Hydrogen-Assisted Cracking (HAC). The framework aims to provide researchers and engineers with an efficient tool for simulating and studying the effects of hydrogen on material cracking behavior. The analysis focuses on both tensile and shear loading conditions to evaluate reaction forces and displacements under varying hydrogen concentrations.
+This project focuses on the development of a Python project for analyzing Hydrogen-Assisted Cracking (HAC). The project aims to provide researchers and engineers with an efficient tool for simulating and studying the effects of hydrogen on material cracking behavior. The analysis focuses on both tensile and shear loading conditions to evaluate reaction forces and displacements under varying hydrogen concentrations.
 
 ![hydrogen_embrittlement2](https://github.com/user-attachments/assets/e0ba7801-04b4-469c-aefe-679b09928169)
 
@@ -49,5 +49,5 @@ https://github.com/user-attachments/assets/9aee1618-331c-4a28-b996-e98fa5e8b741
 These videos showcase the critical aspects of hydrogen embrittlement on materials, highlighting how cracks evolve in different environments.
 
 ## Conclusion
-The Python framework developed in this project presents a significant advancement in analyzing Hydrogen-Assisted Cracking. By providing a tool for simulating material degradation in hydrogen-rich environments, this work offers potential benefits in material design, enabling better resistance to hydrogen embrittlement. The insights gained from this project could help industries improve the durability of materials in applications such as hydrogen fuel systems, pipelines, and other critical infrastructure.
+The Python project developed in this project presents a significant advancement in analyzing Hydrogen-Assisted Cracking. By providing a tool for simulating material degradation in hydrogen-rich environments, this work offers potential benefits in material design, enabling better resistance to hydrogen embrittlement. The insights gained from this project could help industries improve the durability of materials in applications such as hydrogen fuel systems, pipelines, and other critical infrastructure.
 
